@@ -1,7 +1,7 @@
 {
 	"id": "true-todoist-sync",
 	"name": "True Todoist Sync",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"minAppVersion": "1.8.0",
 	"description": "Push tasks from obsidian to todoist, then enjoy two way sync on it.",
 	"author": "Aadu",
